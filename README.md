@@ -24,3 +24,5 @@ pool.put_raw(a);
     auto c = pool.get("change");
 }
 ```
+
+完整：[https://github.com/2qif49lt/xhb11lib/blob/master/src/utility/object_pool.h](https://github.com/2qif49lt/xhb11lib/blob/master/src/utility/object_pool.h)
